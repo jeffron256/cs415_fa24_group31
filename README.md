@@ -4,8 +4,6 @@
 
 *Rougelike FPS game*
 
----
-
 ## Alpha checkpoint
 
 The link for source zip file of **alpha version** can be found [here](https://drive.google.com/file/d/1hT8KwMpDS0qoLMRmpbigmJROsYltMYYN/view?usp=sharing)
